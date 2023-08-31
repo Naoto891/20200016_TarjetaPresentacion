@@ -39,7 +39,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    GreetingText("Android")
+                    GreetingImage()
                 }
             }
         }
